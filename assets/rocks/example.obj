@@ -1,6 +1,6 @@
 # Blender 5.1.0
 # www.blender.org
-mtllib test.mtl
+mtllib example.mtl
 o Icosphere
 v 0.000000 -1.000000 0.000000
 v 0.723607 -0.447220 0.525725
