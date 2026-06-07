@@ -1,13 +1,15 @@
-# 3D Hand Axe simulation
-This repository contains a program that uses the Python Ursina library 
-to represent the process of making a hand axe in 3D.
+# 🪓 3D Hand Axe Simulation
+
+현실적인 3D 주먹도끼 시뮬레이션 프로젝트입니다.  
+Ursina 엔진을 기반으로 제작되었습니다.
+Python Version : 3.11.0
+
 ---
 
-## pip install ursina
-를 반드시 해야 합니다.
+## 📦 설치 방법
 
-Python Version : 3.11 (x64)
+아래 명령어를 **반드시 실행**해야 합니다.
 
-Use Fonts : 프리텐다드, 우아한 세리프
-visual studio로 작업을 여는 것을 추천합니다.
+```cmd
+pip install ursina
 
